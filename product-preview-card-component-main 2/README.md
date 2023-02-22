@@ -28,9 +28,10 @@ Users should be able to:
 - See hover and focus states for interactive elements
 
 ### Screenshot
+<img width="392" alt="Screen Shot 2023-02-21 at 9 04 44 PM" src="https://user-images.githubusercontent.com/98546426/220529333-1c3b5e96-5a84-426f-a534-3c61e770a047.png">
 
-![Mobile View](/images/mobile_screenshot.png)
-![Web Page View](/images/web_screenshot.png)
+<img width="1133" alt="Screen Shot 2023-02-21 at 9 04 24 PM" src="https://user-images.githubusercontent.com/98546426/220529409-e7953406-d8ee-4a7b-8142-c79006618717.png">
+
 
 ### Links
 
